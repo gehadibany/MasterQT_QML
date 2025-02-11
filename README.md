@@ -9,5 +9,4 @@ It shows:
 - The execution of **Jupyter Notebooks**, including the installation of necessary **Python environments and packages**.  
 
 ## 📂 Repository Contents  
-- `hhl_tutorial_Eldibany.ipynb` – The Jupyter Notebook was ran, modified and tested.
-- `hhl-sandbox.ipynb` – The Jupyter Notebook was ran and tested.
+- `Notebooks/` – Includes the Jupyter Notebooks that were ran, modified and tested.
